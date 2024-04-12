@@ -1,0 +1,8 @@
+.formContainer {
+  background: rgb(21, 67, 141);
+  background: linear-gradient(
+    130deg,
+    rgba(21, 67, 141, 1) 20%,
+    rgba(19, 32, 53, 1) 100%
+  );
+}

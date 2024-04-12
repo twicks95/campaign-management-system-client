@@ -1,0 +1,20 @@
+.background {
+  /* background: rgb(19, 32, 53);
+  background: linear-gradient(
+    185deg,
+    rgba(19, 32, 53, 1) 0%,
+    rgba(13, 80, 190, 1) 100%
+  ); */
+  /* background: rgb(255, 255, 255);
+  background: linear-gradient(
+    185deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(222, 222, 222, 1) 65%
+  ); */
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    185deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(222, 222, 222, 1) 38%
+  );
+}

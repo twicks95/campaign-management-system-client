@@ -1,0 +1,53 @@
+{
+    "email": [
+        {
+            "name": "Gmail",
+            "host": "gmail",
+            "domain": [
+                ".com",
+                ".co.id"
+            ]
+        },
+        {
+            "name": "Outlook",
+            "host": "outlook",
+            "domain": [
+                ".com",
+                ".co.id"
+            ]
+        },
+        {
+            "name": "MMI",
+            "host": "mmi-pt",
+            "domain": [
+                ".com"
+            ]
+        }
+    ],
+    "channel": [
+        "Email",
+        "Whatsapp",
+        "Message"
+    ],
+    "campaignType": [
+        {
+            "name": "Birthday Campaign",
+            "description": "Blow out the candles with a birthday discount!"
+        },
+        {
+            "name": "Regular Campaign",
+            "description": "Experienced the costumer with some classic campaign offers!"
+        },
+        {
+            "name": "Big Holy Month Campaign",
+            "description": "Experienced the costumer with some holy month campaign offers!"
+        }
+    ],
+    "tips": {
+        "campaignInformation": "When filling out a campaign information form, be accurate, concise, and clear. Double-check all information for typos and ensure it aligns with your campaign goals. If unsure about specific fields, reach out to the form provider or campaign organizer for clarification. Keep descriptions focused and avoid unnecessary jargon. Remember, the form serves to inform and attract interest, so present your campaign in a professional and engaging light.",
+        "addList": "Filling out an add list form for a campaign requires understanding your target audience. Identify the right criteria for reaching them, be it demographics (age, location), interests, purchase history, or any relevant segment. Double-check the provided options to ensure you're using the correct fields, and upload your list in the designated format, paying close attention to any specific requirements for data points. Remember, accurate targeting leads to better campaign results, so ensure your list reflects your ideal audience.",
+        "selectTemplate": "Selecting the right campaign from a form depends on understanding the purpose and details of each option. Carefully read the descriptions or names of the campaigns, and if further information is available, consult it to clarify objectives, target audience, and any specific requirements. If unsure about a campaign's suitability, reach out to the form provider for clarification before making your selection. It's crucial to choose the campaign that best aligns with your goals and target audience for optimal results.",
+        "templateInformation": "When filling out a campaign information form, be accurate, concise, and clear. Double-check all information for typos and ensure it aligns with your campaign goals. If unsure about specific fields, reach out to the form provider or campaign organizer for clarification. Keep descriptions focused and avoid unnecessary jargon. Remember, the form serves to inform and attract interest, so present your campaign in a professional and engaging light.",
+        "templateDetail": "When filling out a campaign information form, be accurate, concise, and clear. Double-check all information for typos and ensure it aligns with your campaign goals. If unsure about specific fields, reach out to the form provider or campaign organizer for clarification. Keep descriptions focused and avoid unnecessary jargon. Remember, the form serves to inform and attract interest, so present your campaign in a professional and engaging light."
+    }
+}

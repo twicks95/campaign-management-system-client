@@ -1,0 +1,85 @@
+import Tag from "@/components/Tag/Tag"
+
+export const dataSource = [
+    {
+        id: 1,
+        key: '1',
+        campaignName: `Father's day`,
+        campaignDate: "24 Januari 2024 15:57 - 12 Maret 2024 08:57",
+        campaignStart: "24 Januari 2024 15:57",
+        campaignEnd: "12 Maret 2024 08:57",
+        reach: "552",
+        opened: "40%",
+        conversion: "19.6%",
+        status: "active",
+        tag: <Tag status="active" className="mx-0" />,
+        description: `Running campaign in father's day was created at 1 January 2024 15:57:48, reached 552, opened 40%, and 19.6% conversion campaign`
+    },
+    {
+        id: 2,
+        key: '2',
+        campaignName: `Father's day`,
+        campaignDate: "24 Januari 2024 15:57 - 12 Maret 2024 08:57",
+        campaignStart: "24 Januari 2024 15:57",
+        campaignEnd: "12 Maret 2024 08:57",
+        reach: "552",
+        opened: "40%",
+        conversion: "19.6%",
+        status: "active",
+        tag: <Tag status="active" className="mx-0" />,
+        description: `Running campaign in father's day was created at 1 January 2024 15:57:48, reached 552, opened 40%, and 19.6% conversion campaign`
+    },
+    {
+        id: 3,
+        key: '3',
+        campaignName: `Father's day`,
+        campaignDate: "24 Januari 2024 15:57 - 12 Maret 2024 08:57",
+        campaignStart: "24 Januari 2024 15:57",
+        campaignEnd: "12 Maret 2024 08:57",
+        reach: "552",
+        opened: "40%",
+        conversion: "19.6%",
+        status: "inactive",
+        tag: <Tag status="inactive" className="mx-0" />
+    },
+    {
+        id: 4,
+        key: '4',
+        campaignName: `Mother's day`,
+        campaignDate: undefined,
+        campaignStart: undefined,
+        campaignEnd: undefined,
+        reach: undefined,
+        opened: undefined,
+        conversion: "19.6%",
+        status: "draft",
+        tag: <Tag status="draft" className="mx-0" />,
+    },
+    {
+        id: 5,
+        key: '5',
+        campaignName: `Father's day`,
+        campaignDate: "24 Januari 2024 15:57 - 12 Maret 2024 08:57",
+        campaignStart: "24 Januari 2024 15:57",
+        campaignEnd: "12 Maret 2024 08:57",
+        reach: "552",
+        opened: "40%",
+        conversion: "19.6%",
+        status: "active",
+        tag: <Tag status="active" className="mx-0" />
+    },
+    {
+        id: 6,
+        key: '6',
+        campaignName: `Father's day`,
+        campaignDate: "24 Januari 2024 15:57 - 12 Maret 2024 08:57",
+        campaignStart: "24 Januari 2024 15:57",
+        campaignEnd: "12 Maret 2024 08:57",
+        reach: "552",
+        opened: "40%",
+        conversion: "19.6%",
+        status: "active",
+        tag: <Tag status="active" className="mx-0" />
+    },
+
+];

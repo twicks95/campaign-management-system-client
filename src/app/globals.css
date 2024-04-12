@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
+/* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
@@ -14,16 +14,42 @@
     --background-start-rgb: 0, 0, 0;
     --background-end-rgb: 0, 0, 0;
   }
+} */
+
+span {
+  padding: "0" !important;
+  margin: "0" !important;
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
+  font-family: "Fira Sans", sans-serif !important;
+  height: fit-content;
+  /* color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
       transparent,
       rgb(var(--background-end-rgb))
     )
-    rgb(var(--background-start-rgb));
+    rgb(var(--background-start-rgb)); */
+}
+
+main {
+  /* position: relative; */
+  /* padding: 1.5625rem; */
+  width: 100%;
+  background-color: #ffffff;
+  /* overflow-y: auto;
+  overflow-x: hidden; */
+}
+
+input {
+  font-family: "Fira Sans", sans-serif !important;
+  height: 2.5rem;
+  /* background: #F6F6F6 !important; */
+  box-shadow: none !important;
+  box-shadow: 0 1px 4px 0 rgba(73, 73, 73, 0.15);
+  -webkit-box-shadow: 0 1px 4px 0 rgba(73, 73, 73, 0.15);
+  -moz-box-shadow: 0 1px 4px 0 rgba(73, 73, 73, 0.15);
 }
 
 @layer utilities {

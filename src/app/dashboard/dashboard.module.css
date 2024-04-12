@@ -1,0 +1,19 @@
+.backgroundTop {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgb(233, 233, 233) 30%
+  );
+  color: #646464;
+}
+
+.backgroundBottom {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(233, 233, 233) 50%
+  );
+  color: #cacaca;
+}
